@@ -1,0 +1,24 @@
+{
+  "name": "firstexpressassignment",
+  "version": "1.0.0",
+  "description": "Create an express app which sends requests through 2 middleware functions that both log something to the console and return one response",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travismix1980/FirstExpressAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travismix1980/FirstExpressAssignment/issues"
+  },
+  "homepage": "https://github.com/travismix1980/FirstExpressAssignment#readme"
+}
